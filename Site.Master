@@ -10,6 +10,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="keywords" content="Construction Company in New Zealand. Building industry. Reliable" />
     <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+    <link rel="shortcut icon" type="image/png" href="~/images/favicon.png"/>
     <link href="css/bootstrap.css" rel='stylesheet' type='text/css' />
     <link href="css/style.css" rel='stylesheet' type='text/css' />
     <script src="js/jquery-1.11.0.min.js"></script>
@@ -84,7 +85,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				    <div class="col-md-4 touch-left">
 					    <h3>GET IN TOUCH</h3>
 					    <p><a href="Quote">Get a free quote today</a></p>
-					    <p>E-mail: <a href="mailto:info@mcivil.co.nz">info@mcivil.co.nz</a></p>
+					    <p>E-mail: <a href="mailto:info@mansion-civil.ltd">info@mansion-civil.ltd</a></p>
 				    </div>
 				    <div class="col-md-4 touch-left">
 					    <h3>SERVICES</h3>

@@ -73,6 +73,7 @@
   <ItemGroup>
     <Content Include="404.aspx" />
     <Content Include="images\banner-4.jpg" />
+    <Content Include="images\favicon.png" />
     <Content Include="images\news-4.jpg" />
     <Content Include="images\news-5.jpg" />
     <Content Include="images\news-6.jpg" />

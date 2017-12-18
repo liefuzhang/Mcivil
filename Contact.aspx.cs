@@ -25,7 +25,7 @@ namespace Mcivil
       message += "<b>Client First Name:</b>  <br />" + FirstNameTextBox.Text + "<br /><br />";
       message += "<b>Client Email Address:</b>  <br />" + EmailAddressTextBox.Text + "<br /><br />";
       message += "<b>Client Message:</b>  <br />" + MessageTextBox.Text.Replace(Environment.NewLine, "<br/>") + "<br />";
-      MailMessage myMessage = new MailMessage("system.mcivil@gmail.com ", "info@mcivil.co.nz", mailSubject, message);
+      MailMessage myMessage = new MailMessage("system.mcivil@gmail.com ", "info@mansion-civil.ltd", mailSubject, message);
       myMessage.IsBodyHtml = true;
       //SmtpClient mySmtpClient = new SmtpClient();
       //mySmtpClient.Send(myMessage);
