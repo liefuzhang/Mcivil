@@ -24,7 +24,7 @@
 						Te Atatu South.
 					</h6>
 					<p>
-						<span>E-mail: <a href="mailto:info@mansion-civil.ltd">info@mansion-civil.ltd</a></span>
+						<span>E-mail: <a href="mailto:mcivil-ltd@gmail.com">mcivil-ltd@gmail.com</a></span>
 					</p>
 				</div>
 				<div class="col-md-7 contact-bottom-right">

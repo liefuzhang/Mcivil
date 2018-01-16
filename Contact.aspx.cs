@@ -25,10 +25,10 @@ namespace Mcivil
       message += "<b>Client First Name:</b>  <br />" + FirstNameTextBox.Text + "<br /><br />";
       message += "<b>Client Email Address:</b>  <br />" + EmailAddressTextBox.Text + "<br /><br />";
       message += "<b>Client Message:</b>  <br />" + MessageTextBox.Text.Replace(Environment.NewLine, "<br/>") + "<br />";
-      MailMessage myMessage = new MailMessage("system.mcivil@gmail.com ", "info@mansion-civil.ltd", mailSubject, message);
+      MailMessage myMessage = new MailMessage("mcivil.ltd@gmail.com ", "fuzicabin@gmail.com", mailSubject, message);
       myMessage.IsBodyHtml = true;
-      //SmtpClient mySmtpClient = new SmtpClient();
-      //mySmtpClient.Send(myMessage);
+      SmtpClient mySmtpClient = new SmtpClient();
+      mySmtpClient.Send(myMessage);
 
       // show confirm message
       ConfirmMsg.Text = "Thanks for contacting us. We will get back to you as soon as possible.";
